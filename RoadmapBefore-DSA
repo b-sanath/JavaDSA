@@ -1,0 +1,208 @@
+1. Java Basics
+Variables ✅
+Data types (int, long, double, char, boolean)  ✅
+Type casting ✅
+Input/Output (Scanner) ✅
+Operators ✅
+Comments ✅
+
+
+
+2. Control Flow
+if, if-else ✅
+Nested if
+switch
+Ternary operator (?:)
+
+
+  
+3. Loops
+for
+while
+do-while
+Nested loops
+break
+continue
+
+
+
+4. Methods (Functions)
+
+Learn these thoroughly:
+
+Method declaration
+Parameters
+Return type
+Method overloading
+Pass by value
+Scope of variables
+Static methods
+
+
+
+5. Arrays ⭐⭐⭐⭐⭐
+
+This is the foundation of DSA.
+
+1D arrays
+2D arrays
+Traversal
+Insertion
+Deletion
+Searching
+Updating elements
+Array length
+
+
+
+6. Strings ⭐⭐⭐⭐⭐
+
+Learn:
+
+String creation
+String methods
+length()
+charAt()
+substring()
+indexOf()
+contains()
+replace()
+split()
+trim()
+equals()
+String vs StringBuilder
+StringBuilder
+append()
+insert()
+delete()
+reverse()
+
+
+
+7. Object-Oriented Programming (Basic Only)
+
+Classes
+Objects
+Constructors
+Methods
+Access modifiers
+Encapsulation
+
+
+8. Recursion ⭐⭐⭐⭐⭐
+
+Understand:
+
+Base case
+Recursive call
+Call stack
+Backtracking basics
+
+Practice:
+
+Factorial
+Fibonacci
+Sum of numbers
+Reverse array
+Binary search using recursion
+
+
+
+9. Time & Space Complexity ⭐⭐⭐⭐⭐
+
+This is essential.
+Learn:
+
+Big O notation
+Best, average, worst case
+Common complexities:
+O(1)
+O(log n)
+O(n)
+O(n log n)
+O(n²)
+O(2ⁿ)
+Space complexity basics
+10. Java Collections Framework ⭐⭐⭐⭐⭐
+
+Know how to use these classes:
+
+ArrayList
+LinkedList
+Stack
+Queue
+Deque
+HashSet
+TreeSet
+HashMap
+TreeMap
+PriorityQueue
+
+For each, know:
+
+When to use it
+Time complexity of common operations
+Basic methods (add, remove, get, contains, etc.)
+
+
+
+11. Sorting Utilities
+Arrays.sort()
+Collections.sort()
+Comparator basics
+Comparable basics
+
+
+
+12. Math Utilities
+Know:
+
+Math.max()
+Math.min()
+Math.abs()
+Math.pow()
+Math.sqrt()
+Modulo operator (%)
+
+
+13. Bit Manipulation (Basic)
+&
+|
+^
+~
+<<
+>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Day	Topics
+Day 1	Java Basics (variables, data types, operators, input/output)
+Day 2	Control Flow (if, switch, loops, break, continue)
+Day 3	Methods, scope, parameter passing, method overloading
+Day 4	Arrays (1D)
+Day 5	2D Arrays + practice problems
+Day 6	Strings + StringBuilder
+Day 7	Basic OOP (classes, objects, constructors, encapsulation)
+Day 8	Recursion
+Day 9	Time & Space Complexity
+Day 10	Collections: ArrayList, LinkedList, Stack, Queue
+Day 11	Collections: HashMap, HashSet, PriorityQueue, TreeMap (basic usage)
+Day 12	Sorting utilities, Comparator, Comparable, Math utilities
+Day 13	Bit manipulation basics + revision + small practice exercises
