@@ -17,9 +17,9 @@ Ternary operator (?:)
 
   
 3. Loops
-for
-while
-do-while
+for ✅
+while ✅
+do-while ✅
 Nested loops
 break
 continue
