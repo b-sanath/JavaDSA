@@ -1,4 +1,4 @@
-1. Java Basics
+1. Java Basics ✅
 Variables ✅
 Data types (int, long, double, char, boolean)  ✅
 Type casting ✅
@@ -7,8 +7,8 @@ Operators ✅
 Comments ✅
 
 
-
-2. Control Flow
+ 
+2. Control Flow ✅
 if, if-else ✅
 Nested if ✅
 switch ✅
@@ -16,7 +16,7 @@ Ternary operator (?:) ✅
 
 
   
-3. Loops
+3. Loops ✅
 for ✅
 while ✅
 do-while ✅
@@ -26,7 +26,7 @@ continue ✅
 
 
 
-4. Methods (Functions)
+4. Methods (Functions) OOPS Concept
 
 Learn these thoroughly:
 
@@ -193,9 +193,9 @@ Modulo operator (%)
 
 
 Day	Topics
-Day 1	Java Basics (variables, data types, operators, input/output)
-Day 2	Control Flow (if, switch, loops, break, continue)
-Day 3	Methods, scope, parameter passing, method overloading
+Day 1	Java Basics (variables, data types, operators, input/output)  ✅
+Day 2	Control Flow (if, switch, loops, break, continue)  ✅
+Day 3	Methods, scope, parameter passing, method overloading,OOPS Concept  
 Day 4	Arrays (1D)
 Day 5	2D Arrays + practice problems
 Day 6	Strings + StringBuilder
