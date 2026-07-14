@@ -11,8 +11,8 @@ Comments ✅
 2. Control Flow
 if, if-else ✅
 Nested if ✅
-switch
-Ternary operator (?:)
+switch ✅
+Ternary operator (?:) ✅
 
 
   
@@ -20,9 +20,9 @@ Ternary operator (?:)
 for ✅
 while ✅
 do-while ✅
-Nested loops
-break
-continue
+Nested loops  ✅
+break  ✅
+continue ✅
 
 
 
